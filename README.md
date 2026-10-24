@@ -1,6 +1,6 @@
-# Hi there, I'm Jamunarani! 👋
+# Hi there, I'm Jamunarani! 
 
-🎓 **Integrated M.Tech in Computer Science (Data Science)** | VIT Vellore
+🎓 **Integrated M.Tech in Computer Science Engineering with specialization in Data Science ** | @VIT Vellore
 
 ---
 

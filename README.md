@@ -30,15 +30,6 @@ I'm passionate about exploring the intersection of data, intelligent systems, an
 - Exploring data warehouse design, analytical processing, and data mining techniques.
 - Learning to develop practical, data-driven applications.
 - Exploring how AI and data engineering can work together to build intelligent systems.
-
----
-
-### 🤝 Let's Connect
-
-I'm always interested in learning about new technologies, exploring innovative ideas, and connecting with people who share similar interests.
-
-**GitHub:** [@jamunajai02-stack](https://github.com/jamunajai02-stack)
-
----
+###
 
 ⭐ *Curious by nature. Driven by learning. Inspired by possibilities.*
